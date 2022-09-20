@@ -31,7 +31,7 @@ Beginning Ring Programming From Novice to Professional や Ring 公式ドキュ�
 気になるようでしたら Ring 付属のドキュメントの改訂作業、サンプルソースや拡張機能の寄贈をお願いします。
 
 ## ライセンスなど
-未定です。
+特に断りがない限り [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja) です。
 
 バッジの導入や続きは後で書きます。
 
