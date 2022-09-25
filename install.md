@@ -67,8 +67,8 @@ TODO: 専門用語や片仮名が多過ぎます。また、手順を踏んで�
 #### ショートカットの作成
 Ring ノートパッドのショートカットを作成します。
 
-### 中級者向け (調査中)
-コマンドプロンプトからダウンロードとインストールをする方法です(未検証)。
+### 中級者向け
+コマンドプロンプトからダウンロードとインストールをする方法です。
 
 ショートカットは wsh スクリプトを作らなければコマンドラインから作成できません (Ring とその拡張機能である WinCReg で実現できるかは不明です)。
 
@@ -76,13 +76,21 @@ Ring ノートパッドのショートカットを作成します。
 
 この問題については 7zSD.sfx などサードパティ製の自己解凍実行用のスタブを適用した Ring インストラーの新しいバージョンで解決されるかもしれません。
 
-
 ```powershell
 $ cd Desktop
 $ bitsadmin.exe /TRANSFER FILEGET https://github.com/ring-lang/ring/releases/download/v1.17/Fayed_Ring_1.17_Windows.exe "%USERPROFILE%\DesktopFayed_Ring_1.17_Windows.exe"
 $ Fayed_Ring_1.17_Windows.exe
 ```
 bitsadmin.exe のバージョンによりオプションが異なります。 FILEGET で上手くいかない場合は、 DOWNLOAD (version.3.0 以降) をお試しください。
+
+#### bitsadmin.exe が使えなくなった場合
+bitsadmin.exe は廃止予定のようです。
+
+廃止後は start コマンドを用いてウェブブラウザ経由でダウンロードしてください。なお、その場合は、ダウンロード完了後にブラウザからインストーラを実行してください (Google Chrome であれば Ctrl+J を押した後に Fayed_Ring_バージョン番号_Windows.exe をクリックします)。
+
+```powershell
+start https://github.com/ring-lang/ring/releases/download/v1.17/Fayed_Ring_1.17_Windows.exe
+```
 
 ## サンプルソースのバックアップ
 おそらく、初学者さんが真っ先に壊して動かなくしてしまうものののひとつがサンプルソースだと思います。
