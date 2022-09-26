@@ -1,3 +1,7 @@
+# C a n d y  A p p l e
+
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+
 ## このプロジェクトの目的
 私家版ドキュメント(改訂版、メモ、連載)の執筆・公開するものです。
 
