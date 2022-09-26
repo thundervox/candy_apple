@@ -92,3 +92,9 @@ Ring を使うことで何ができるのか、本書で解説します。
  * CUSTOM TRY (キョーリツコーポレーション) CM-5000U
  * 本書の執筆には KHCoder を使いました。
 
+## 使用許諾条件
+Copyright(C)2021-, isVowel All Rights Resreved.
+
+Creative Commons 表示 - 非営利 - 改変禁止 4.0 国際 (CC BY-NC-ND 4.0)
+ https://creativecommons.org/licenses/by-nc-nd/4.0/deed.jp
+
