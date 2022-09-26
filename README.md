@@ -1,5 +1,5 @@
 # C a n d y  A p p l e
-
+[![💎 - Ring Programming Language](https://img.shields.io/badge/💎-Ring_Programming_Language-2ea44f)](https://ring-lang.github.io/)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 ## このプロジェクトの目的
