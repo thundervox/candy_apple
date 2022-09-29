@@ -171,3 +171,10 @@ start https://github.com/ring-lang/ring/releases/download/v1.17/Fayed_Ring_1.17_
 ### スタブ
 
 ## 参考文献
+ * [【PowerShell】デスクトップ上にショートカットを作成してアイコンを変更する - ほそぼそプログラミング日記](https://hosopro.blogspot.com/2017/09/powershell-shortcut-icon.html)
+ * []()
+ * []()
+ * []()
+ * []()
+ * []()
+
