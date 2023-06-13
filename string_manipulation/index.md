@@ -20,6 +20,8 @@ Ring 本体だけでは英語以外では扱えません。
 * 基本概念
   * QChar
   * QString
+  * QStringRef
+  * QTextStream
   * QRegExp
 * 使用方法
   * 宣言と定義
